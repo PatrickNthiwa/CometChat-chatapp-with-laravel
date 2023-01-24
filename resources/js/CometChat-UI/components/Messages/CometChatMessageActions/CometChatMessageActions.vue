@@ -62,10 +62,14 @@ import {
 
 import { cometChatCommon, propertyCheck, tooltip } from "../../../mixins/";
 
+// import deleteIcon from "./resources/deletemessage.png";
+// import reactIcon from "./resources/add-reaction-message.svg";
+// import replyIcon from "./resources/startThread.png";
+// import editIcon from "./resources/edit-message.png";
 import deleteIcon from "./resources/deletemessage.png";
-import reactIcon from "./resources/add-reaction.svg";
+import reactIcon from "./resources/add-reaction-message.svg";
 import replyIcon from "./resources/startThread.png";
-import editIcon from "./resources/edit.png";
+import editIcon from "./resources/edit-message.png";
 
 import * as style from "./style";
 

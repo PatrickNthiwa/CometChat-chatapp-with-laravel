@@ -17,6 +17,7 @@
         "vue": "^3.2.37"
     },
     "dependencies": {
-        "@cometchat-pro/chat": "^3.0.10"
+        "@cometchat-pro/chat": "^3.0.10",
+        "file-loader": "^6.2.0"
     }
 }
